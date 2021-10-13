@@ -12,7 +12,7 @@ Thi is a ✨ _special_ ✨ repository because its `README.md` (this file) appear
 [![Linkedin Badge](https://img.shields.io/badge/-JuanOlmos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-olmos-1625421a4/)](https://www.linkedin.com/in/juan-olmos-1625421a4)
 [![Gmail Badge](https://img.shields.io/badge/-juanolmos-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sierraporta@gmail.com)](mailto:juan2218060s@correo.uis.edu.co)
 
-🌱 I’m currently working **Universidad Industrial de Santander, Colombia**, 
+🌱 I’m currently working at **Universidad Industrial de Santander, Colombia**, 
 
 
 [![sierraporta's github stats](https://github-readme-stats.vercel.app/api?username=JuanOlmos&show_icons=true&theme=vue)](https://github.com/JuanOlmos)
